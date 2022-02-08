@@ -1,0 +1,1 @@
+This project will demonstrate an understanding of HTML forms and CSS organization.
