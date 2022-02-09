@@ -1,22 +1,8 @@
 #page-container {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(3, 1fr);
+    display: flex;
 }
 
-img {
-    grid-column: 1/3;
-    grid-row: 1;
-    max-width: 20em;
-    max-height: 100em;
-}
-
-#persuasion {
-    grid-column: 2/3;
-    grid-row: 1;
-}
-
-form {
-    grid-column: 2/3;
-    grid-row: 2;
+#right-side {
+    display: flex;
+    flex-direction: column;
 }
