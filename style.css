@@ -54,3 +54,23 @@ ul {
 ul li + li {
     margin-top: 10px;
 }
+
+#first_name {
+    margin-left: 55px;
+}
+
+#last_name {
+    margin-left: 60px;
+}
+
+#password {
+    margin-left: 70px;
+}
+
+#mail {
+    margin-left: 100px;
+}
+
+#user_name {
+    margin-left: 55px;
+}
