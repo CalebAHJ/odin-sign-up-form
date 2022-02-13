@@ -74,25 +74,25 @@ ul {
 }
 
 ul li + li {
-    margin-top: 10px;
+    margin-top: .625rem;
 }
 
 #first_name {
-    margin-left: 55px;
+    margin-left: 3.4375rem;
 }
 
 #last_name {
-    margin-left: 60px;
+    margin-left: 3.75rem;
 }
 
 #password {
-    margin-left: 70px;
+    margin-left: 4.375rem;
 }
 
 #mail {
-    margin-left: 100px;
+    margin-left: 6.25rem;
 }
 
 #user_name {
-    margin-left: 55px;
+    margin-left: 3.4375rem;
 }
