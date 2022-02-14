@@ -96,3 +96,20 @@ ul li + li {
 #user_name {
     margin-left: 3.4375rem;
 }
+
+
+@media screen and (max-width:500px) {
+    .cushion {
+        height: 0px;
+        width: 0px;
+    }
+    #content-container {
+        width: 100vw;
+    }
+    #right-side {
+        width: 67%;
+    }
+    #content-container {
+        width: 100%;
+    }
+}
